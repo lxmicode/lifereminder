@@ -1,0 +1,17 @@
+{
+  "name": "lifereminder",
+  "version": "2.0.0",
+  "description": "A serverless life event reminder on Cloudflare Workers - Birthday, Anniversary, Festival alerts",
+  "main": "_worker.js",
+  "keywords":[
+     "cloudflare-workers",
+     "birthday",
+     "anniversary",
+     "reminder",
+     "notify",
+     "icalendar",
+     "lunar-calendar"
+  ],
+  "author": "LOSTFREE",
+  "license": "MIT"
+}
